@@ -1,2 +1,3 @@
-# programming-exercises
-My solutions for Brian Hogan's exercises for programmers
+# Programming exercises
+
+My solutions for Brian Hogan's exercises for programmers.
