@@ -5,7 +5,7 @@ int main(int argc, char* argv[]) {
     char string[64];
 
     printf("What is the input string? ");
-    scanf("%s", string);
+    scanf("%63s", string);
 
     printf("%s has %d characters.\n", string, strlen(string));
 
