@@ -7,4 +7,6 @@ int main(int argc, char* argv[]) {
     scanf("%63s", name);
 
     printf("Hello, %s, nice to meet you!\n", name);
+
+    return 0;
 }
