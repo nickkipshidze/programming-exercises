@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char* argv[]) {
+int main(int argc, char *argv[]) {
     char name[64];
 
     printf("What is your name? ");
